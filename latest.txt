@@ -1,0 +1,9 @@
+audible   ASAP
+
+Diary:	Weights
+	Exercise
+	Work
+	Feels
+	Other
+
+New file per day?
